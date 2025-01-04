@@ -1,0 +1,7 @@
+google~=3.0.0
+protobuf~=5.29.2
+SpeechRecognition~=3.13.0
+pydub~=0.25.1
+PyQt5~=5.15.11
+PyAudio~=0.2.14
+Kivy~=2.3.1

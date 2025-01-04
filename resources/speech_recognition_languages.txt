@@ -1,0 +1,794 @@
+Name	BCP-47	Model	Single Utterance	Automatic punctuation	Diarization	Model adaptation	Word-level confidence	Profanity filter	Spoken punctuation	Spoken emojis
+Afrikaans (South Africa)	af-ZA	command_and_search	False			✔		✔		
+Afrikaans (South Africa)	af-ZA	command_and_search	True			✔		✔		
+Afrikaans (South Africa)	af-ZA	default	False			✔		✔		
+Albanian (Albania)	sq-AL	command_and_search	False					✔		
+Albanian (Albania)	sq-AL	command_and_search	True					✔		
+Albanian (Albania)	sq-AL	default	False					✔		
+Amharic (Ethiopia)	am-ET	command_and_search	False					✔		
+Amharic (Ethiopia)	am-ET	command_and_search	True					✔		
+Amharic (Ethiopia)	am-ET	default	False					✔		
+Arabic (Algeria)	ar-DZ	command_and_search	False					✔		
+Arabic (Algeria)	ar-DZ	command_and_search	True					✔		
+Arabic (Algeria)	ar-DZ	default	False					✔		
+Arabic (Algeria)	ar-DZ	latest_long	False	✔			✔	✔		
+Arabic (Algeria)	ar-DZ	latest_long	True	✔		✔	✔	✔		
+Arabic (Algeria)	ar-DZ	latest_short	False	✔		✔	✔	✔		
+Arabic (Algeria)	ar-DZ	latest_short	True	✔		✔	✔	✔		
+Arabic (Bahrain)	ar-BH	command_and_search	False			✔		✔		
+Arabic (Bahrain)	ar-BH	command_and_search	True			✔		✔		
+Arabic (Bahrain)	ar-BH	default	False			✔		✔		
+Arabic (Bahrain)	ar-BH	latest_long	False	✔			✔	✔		
+Arabic (Bahrain)	ar-BH	latest_long	True	✔		✔	✔	✔		
+Arabic (Bahrain)	ar-BH	latest_short	False	✔		✔	✔	✔		
+Arabic (Bahrain)	ar-BH	latest_short	True	✔		✔	✔	✔		
+Arabic (Egypt)	ar-EG	command_and_search	False			✔		✔		
+Arabic (Egypt)	ar-EG	command_and_search	True			✔		✔		
+Arabic (Egypt)	ar-EG	default	False			✔		✔		
+Arabic (Egypt)	ar-EG	latest_long	False	✔			✔	✔		
+Arabic (Egypt)	ar-EG	latest_long	True	✔		✔	✔	✔		
+Arabic (Egypt)	ar-EG	latest_short	False	✔		✔	✔	✔		
+Arabic (Egypt)	ar-EG	latest_short	True	✔		✔	✔	✔		
+Arabic (Iraq)	ar-IQ	command_and_search	False			✔		✔		
+Arabic (Iraq)	ar-IQ	command_and_search	True			✔		✔		
+Arabic (Iraq)	ar-IQ	default	False			✔		✔		
+Arabic (Iraq)	ar-IQ	latest_long	False	✔			✔	✔		
+Arabic (Iraq)	ar-IQ	latest_long	True	✔		✔	✔	✔		
+Arabic (Iraq)	ar-IQ	latest_short	False	✔		✔	✔	✔		
+Arabic (Iraq)	ar-IQ	latest_short	True	✔		✔	✔	✔		
+Arabic (Israel)	ar-IL	command_and_search	False			✔		✔		
+Arabic (Israel)	ar-IL	command_and_search	True			✔		✔		
+Arabic (Israel)	ar-IL	default	False			✔		✔		
+Arabic (Israel)	ar-IL	latest_long	False	✔			✔	✔		
+Arabic (Israel)	ar-IL	latest_long	True	✔		✔	✔	✔		
+Arabic (Israel)	ar-IL	latest_short	False	✔		✔	✔	✔		
+Arabic (Israel)	ar-IL	latest_short	True	✔		✔	✔	✔		
+Arabic (Jordan)	ar-JO	command_and_search	False			✔		✔		
+Arabic (Jordan)	ar-JO	command_and_search	True			✔		✔		
+Arabic (Jordan)	ar-JO	default	False			✔		✔		
+Arabic (Jordan)	ar-JO	latest_long	False	✔			✔	✔		
+Arabic (Jordan)	ar-JO	latest_long	True	✔		✔	✔	✔		
+Arabic (Jordan)	ar-JO	latest_short	False	✔		✔	✔	✔		
+Arabic (Jordan)	ar-JO	latest_short	True	✔		✔	✔	✔		
+Arabic (Kuwait)	ar-KW	command_and_search	False			✔		✔		
+Arabic (Kuwait)	ar-KW	command_and_search	True			✔		✔		
+Arabic (Kuwait)	ar-KW	default	False			✔		✔		
+Arabic (Kuwait)	ar-KW	latest_long	False	✔			✔	✔		
+Arabic (Kuwait)	ar-KW	latest_long	True	✔		✔	✔	✔		
+Arabic (Kuwait)	ar-KW	latest_short	False	✔		✔	✔	✔		
+Arabic (Kuwait)	ar-KW	latest_short	True	✔		✔	✔	✔		
+Arabic (Lebanon)	ar-LB	command_and_search	False			✔		✔		
+Arabic (Lebanon)	ar-LB	command_and_search	True			✔		✔		
+Arabic (Lebanon)	ar-LB	default	False			✔		✔		
+Arabic (Lebanon)	ar-LB	latest_long	False	✔			✔	✔		
+Arabic (Lebanon)	ar-LB	latest_long	True	✔		✔	✔	✔		
+Arabic (Lebanon)	ar-LB	latest_short	False	✔		✔	✔	✔		
+Arabic (Lebanon)	ar-LB	latest_short	True	✔		✔	✔	✔		
+Arabic (Mauritania)	ar-MR	command_and_search	False					✔		
+Arabic (Mauritania)	ar-MR	command_and_search	True					✔		
+Arabic (Mauritania)	ar-MR	default	False					✔		
+Arabic (Mauritania)	ar-MR	latest_long	False	✔			✔	✔		
+Arabic (Mauritania)	ar-MR	latest_long	True	✔		✔	✔	✔		
+Arabic (Mauritania)	ar-MR	latest_short	False	✔		✔	✔	✔		
+Arabic (Mauritania)	ar-MR	latest_short	True	✔		✔	✔	✔		
+Arabic (Morocco)	ar-MA	command_and_search	False					✔		
+Arabic (Morocco)	ar-MA	command_and_search	True					✔		
+Arabic (Morocco)	ar-MA	default	False					✔		
+Arabic (Morocco)	ar-MA	latest_long	False	✔			✔	✔		
+Arabic (Morocco)	ar-MA	latest_long	True	✔		✔	✔	✔		
+Arabic (Morocco)	ar-MA	latest_short	False	✔		✔	✔	✔		
+Arabic (Morocco)	ar-MA	latest_short	True	✔		✔	✔	✔		
+Arabic (Oman)	ar-OM	command_and_search	False			✔		✔		
+Arabic (Oman)	ar-OM	command_and_search	True			✔		✔		
+Arabic (Oman)	ar-OM	default	False			✔		✔		
+Arabic (Oman)	ar-OM	latest_long	False	✔			✔	✔		
+Arabic (Oman)	ar-OM	latest_long	True	✔		✔	✔	✔		
+Arabic (Oman)	ar-OM	latest_short	False	✔		✔	✔	✔		
+Arabic (Oman)	ar-OM	latest_short	True	✔		✔	✔	✔		
+Arabic (Qatar)	ar-QA	command_and_search	False			✔		✔		
+Arabic (Qatar)	ar-QA	command_and_search	True			✔		✔		
+Arabic (Qatar)	ar-QA	default	False			✔		✔		
+Arabic (Qatar)	ar-QA	latest_long	False	✔			✔	✔		
+Arabic (Qatar)	ar-QA	latest_long	True	✔		✔	✔	✔		
+Arabic (Qatar)	ar-QA	latest_short	False	✔		✔	✔	✔		
+Arabic (Qatar)	ar-QA	latest_short	True	✔		✔	✔	✔		
+Arabic (Saudi Arabia)	ar-SA	command_and_search	False			✔		✔		
+Arabic (Saudi Arabia)	ar-SA	command_and_search	True			✔		✔		
+Arabic (Saudi Arabia)	ar-SA	default	False			✔		✔		
+Arabic (Saudi Arabia)	ar-SA	latest_long	False	✔			✔	✔		
+Arabic (Saudi Arabia)	ar-SA	latest_long	True	✔		✔	✔	✔		
+Arabic (Saudi Arabia)	ar-SA	latest_short	False	✔		✔	✔	✔		
+Arabic (Saudi Arabia)	ar-SA	latest_short	True	✔		✔	✔	✔		
+Arabic (State of Palestine)	ar-PS	command_and_search	False			✔		✔		
+Arabic (State of Palestine)	ar-PS	command_and_search	True			✔		✔		
+Arabic (State of Palestine)	ar-PS	default	False			✔		✔		
+Arabic (State of Palestine)	ar-PS	latest_long	False	✔			✔	✔		
+Arabic (State of Palestine)	ar-PS	latest_long	True	✔		✔	✔	✔		
+Arabic (State of Palestine)	ar-PS	latest_short	False	✔		✔	✔	✔		
+Arabic (State of Palestine)	ar-PS	latest_short	True	✔		✔	✔	✔		
+Arabic (Syria)	ar-SY	command_and_search	False			✔		✔		
+Arabic (Syria)	ar-SY	command_and_search	True			✔		✔		
+Arabic (Syria)	ar-SY	default	False			✔		✔		
+Arabic (Tunisia)	ar-TN	command_and_search	False					✔		
+Arabic (Tunisia)	ar-TN	command_and_search	True					✔		
+Arabic (Tunisia)	ar-TN	default	False					✔		
+Arabic (Tunisia)	ar-TN	latest_long	False	✔			✔	✔		
+Arabic (Tunisia)	ar-TN	latest_long	True	✔		✔	✔	✔		
+Arabic (Tunisia)	ar-TN	latest_short	False	✔		✔	✔	✔		
+Arabic (Tunisia)	ar-TN	latest_short	True	✔		✔	✔	✔		
+Arabic (United Arab Emirates)	ar-AE	command_and_search	False			✔		✔		
+Arabic (United Arab Emirates)	ar-AE	command_and_search	True			✔		✔		
+Arabic (United Arab Emirates)	ar-AE	default	False			✔		✔		
+Arabic (United Arab Emirates)	ar-AE	latest_long	False	✔			✔	✔		
+Arabic (United Arab Emirates)	ar-AE	latest_long	True	✔		✔	✔	✔		
+Arabic (United Arab Emirates)	ar-AE	latest_short	False	✔		✔	✔	✔		
+Arabic (United Arab Emirates)	ar-AE	latest_short	True	✔		✔	✔	✔		
+Arabic (Yemen)	ar-YE	command_and_search	False			✔		✔		
+Arabic (Yemen)	ar-YE	command_and_search	True			✔		✔		
+Arabic (Yemen)	ar-YE	default	False			✔		✔		
+Arabic (Yemen)	ar-YE	latest_long	False	✔			✔	✔		
+Arabic (Yemen)	ar-YE	latest_long	True	✔		✔	✔	✔		
+Arabic (Yemen)	ar-YE	latest_short	False	✔		✔	✔	✔		
+Arabic (Yemen)	ar-YE	latest_short	True	✔		✔	✔	✔		
+Armenian (Armenia)	hy-AM	command_and_search	False					✔		
+Armenian (Armenia)	hy-AM	command_and_search	True					✔		
+Armenian (Armenia)	hy-AM	default	False					✔		
+Azerbaijani (Azerbaijan)	az-AZ	command_and_search	False					✔		
+Azerbaijani (Azerbaijan)	az-AZ	command_and_search	True					✔		
+Azerbaijani (Azerbaijan)	az-AZ	default	False					✔		
+Basque (Spain)	eu-ES	command_and_search	False					✔		
+Basque (Spain)	eu-ES	command_and_search	True					✔		
+Basque (Spain)	eu-ES	default	False					✔		
+Bengali (Bangladesh)	bn-BD	command_and_search	False			✔		✔		
+Bengali (Bangladesh)	bn-BD	command_and_search	True			✔		✔		
+Bengali (Bangladesh)	bn-BD	default	False			✔		✔		
+Bengali (Bangladesh)	bn-BD	latest_long	False				✔	✔		
+Bengali (Bangladesh)	bn-BD	latest_long	True			✔	✔	✔		
+Bengali (Bangladesh)	bn-BD	latest_short	False			✔	✔	✔		
+Bengali (Bangladesh)	bn-BD	latest_short	True			✔	✔	✔		
+Bengali (India)	bn-IN	command_and_search	False					✔		
+Bengali (India)	bn-IN	command_and_search	True					✔		
+Bengali (India)	bn-IN	default	False					✔		
+Bosnian (Bosnia and Herzegovina)	bs-BA	command_and_search	False					✔		
+Bosnian (Bosnia and Herzegovina)	bs-BA	command_and_search	True					✔		
+Bosnian (Bosnia and Herzegovina)	bs-BA	default	False					✔		
+Bulgarian (Bulgaria)	bg-BG	command_and_search	False					✔		
+Bulgarian (Bulgaria)	bg-BG	command_and_search	True					✔		
+Bulgarian (Bulgaria)	bg-BG	default	False					✔		
+Bulgarian (Bulgaria)	bg-BG	latest_long	False				✔	✔		
+Bulgarian (Bulgaria)	bg-BG	latest_long	True			✔	✔	✔		
+Bulgarian (Bulgaria)	bg-BG	latest_short	False			✔	✔	✔		
+Bulgarian (Bulgaria)	bg-BG	latest_short	True			✔	✔	✔		
+Burmese (Myanmar)	my-MM	command_and_search	False					✔		
+Burmese (Myanmar)	my-MM	command_and_search	True					✔		
+Burmese (Myanmar)	my-MM	default	False					✔		
+Catalan (Spain)	ca-ES	command_and_search	False					✔		
+Catalan (Spain)	ca-ES	command_and_search	True					✔		
+Catalan (Spain)	ca-ES	default	False					✔		
+Chinese (Simplified, China)	cmn-Hans-CN	command_and_search	False	✔		✔		✔		
+Chinese (Simplified, China)	cmn-Hans-CN	command_and_search	True	✔		✔		✔		
+Chinese (Simplified, China)	cmn-Hans-CN	default	False	✔		✔		✔		
+Chinese (Simplified, Hong Kong)	cmn-Hans-HK	command_and_search	False	✔		✔		✔		
+Chinese (Simplified, Hong Kong)	cmn-Hans-HK	command_and_search	True	✔		✔		✔		
+Chinese (Simplified, Hong Kong)	cmn-Hans-HK	default	False	✔		✔		✔		
+Chinese (Traditional, Taiwan)	cmn-Hant-TW	command_and_search	False	✔		✔		✔		
+Chinese (Traditional, Taiwan)	cmn-Hant-TW	command_and_search	True	✔		✔		✔		
+Chinese (Traditional, Taiwan)	cmn-Hant-TW	default	False	✔		✔		✔		
+Chinese, Cantonese (Traditional Hong Kong)	yue-Hant-HK	command_and_search	False			✔		✔		
+Chinese, Cantonese (Traditional Hong Kong)	yue-Hant-HK	command_and_search	True			✔		✔		
+Chinese, Cantonese (Traditional Hong Kong)	yue-Hant-HK	default	False			✔		✔		
+Croatian (Croatia)	hr-HR	command_and_search	False					✔		
+Croatian (Croatia)	hr-HR	command_and_search	True					✔		
+Croatian (Croatia)	hr-HR	default	False					✔		
+Czech (Czech Republic)	cs-CZ	command_and_search	False	✔		✔		✔	✔	
+Czech (Czech Republic)	cs-CZ	command_and_search	True	✔		✔		✔	✔	
+Czech (Czech Republic)	cs-CZ	default	False	✔		✔		✔	✔	
+Czech (Czech Republic)	cs-CZ	latest_long	False	✔			✔	✔	✔	
+Czech (Czech Republic)	cs-CZ	latest_long	True	✔		✔	✔	✔	✔	
+Czech (Czech Republic)	cs-CZ	latest_short	False	✔		✔	✔	✔	✔	
+Czech (Czech Republic)	cs-CZ	latest_short	True	✔		✔	✔	✔	✔	
+Danish (Denmark)	da-DK	command_and_search	False	✔		✔		✔	✔	
+Danish (Denmark)	da-DK	command_and_search	True	✔		✔		✔	✔	
+Danish (Denmark)	da-DK	default	False	✔		✔		✔	✔	
+Danish (Denmark)	da-DK	latest_long	False	✔		✔	✔	✔	✔	
+Danish (Denmark)	da-DK	latest_long	True	✔			✔	✔	✔	
+Danish (Denmark)	da-DK	latest_short	False	✔			✔	✔	✔	
+Danish (Denmark)	da-DK	latest_short	True	✔			✔	✔	✔	
+Dutch (Belgium)	nl-BE	command_and_search	False					✔	✔	
+Dutch (Belgium)	nl-BE	command_and_search	True					✔	✔	
+Dutch (Belgium)	nl-BE	default	False					✔	✔	
+Dutch (Belgium)	nl-BE	telephony	False	✔			✔	✔	✔	
+Dutch (Belgium)	nl-BE	telephony_short	False	✔		✔	✔	✔	✔	
+Dutch (Netherlands)	nl-NL	command_and_search	False			✔		✔	✔	
+Dutch (Netherlands)	nl-NL	command_and_search	True			✔		✔	✔	
+Dutch (Netherlands)	nl-NL	default	False			✔		✔	✔	
+Dutch (Netherlands)	nl-NL	latest_long	False	✔		✔	✔	✔	✔	
+Dutch (Netherlands)	nl-NL	latest_long	True	✔		✔	✔	✔	✔	
+Dutch (Netherlands)	nl-NL	latest_short	False	✔		✔	✔	✔	✔	
+Dutch (Netherlands)	nl-NL	latest_short	True	✔		✔	✔	✔	✔	
+Dutch (Netherlands)	nl-NL	telephony	False	✔			✔	✔	✔	
+Dutch (Netherlands)	nl-NL	telephony	True	✔			✔	✔	✔	
+Dutch (Netherlands)	nl-NL	telephony_short	False	✔		✔	✔	✔	✔	
+Dutch (Netherlands)	nl-NL	telephony_short	True	✔		✔	✔	✔	✔	
+English (Australia)	en-AU	command_and_search	False	✔		✔		✔	✔	✔
+English (Australia)	en-AU	command_and_search	True	✔		✔		✔	✔	✔
+English (Australia)	en-AU	default	False	✔		✔		✔	✔	✔
+English (Australia)	en-AU	latest_long	False	✔		✔	✔	✔	✔	✔
+English (Australia)	en-AU	latest_long	True	✔		✔	✔	✔	✔	✔
+English (Australia)	en-AU	latest_short	False	✔		✔	✔	✔	✔	✔
+English (Australia)	en-AU	latest_short	True	✔		✔	✔	✔	✔	✔
+English (Australia)	en-AU	phone_call	False	✔			✔	✔		
+English (Australia)	en-AU	telephony	False	✔			✔	✔	✔	✔
+English (Australia)	en-AU	telephony	True	✔			✔	✔	✔	✔
+English (Australia)	en-AU	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (Australia)	en-AU	telephony_short	True	✔		✔	✔	✔	✔	✔
+English (Canada)	en-CA	command_and_search	False					✔	✔	✔
+English (Canada)	en-CA	command_and_search	True					✔	✔	✔
+English (Canada)	en-CA	default	False					✔		
+English (Canada)	en-CA	telephony	False	✔	✔	✔	✔	✔	✔	✔
+English (Canada)	en-CA	telephony	True	✔	✔	✔	✔	✔	✔	✔
+English (Canada)	en-CA	telephony_short	False	✔	✔	✔	✔	✔	✔	✔
+English (Canada)	en-CA	telephony_short	True	✔	✔	✔	✔	✔	✔	✔
+English (Ghana)	en-GH	command_and_search	False			✔		✔	✔	
+English (Ghana)	en-GH	command_and_search	True			✔		✔	✔	
+English (Ghana)	en-GH	default	False			✔		✔	✔	
+English (Hong Kong)	en-HK	command_and_search	False					✔	✔	✔
+English (Hong Kong)	en-HK	command_and_search	True					✔	✔	✔
+English (Hong Kong)	en-HK	default	False					✔	✔	✔
+English (Hong Kong)	en-HK	telephony	False	✔			✔	✔	✔	✔
+English (Hong Kong)	en-HK	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (India)	en-IN	command_and_search	False	✔		✔		✔	✔	✔
+English (India)	en-IN	command_and_search	True	✔		✔		✔	✔	✔
+English (India)	en-IN	default	False	✔		✔		✔	✔	✔
+English (India)	en-IN	latest_long	False	✔		✔	✔	✔	✔	✔
+English (India)	en-IN	latest_long	True	✔		✔	✔	✔	✔	✔
+English (India)	en-IN	latest_short	False	✔		✔	✔	✔	✔	✔
+English (India)	en-IN	latest_short	True	✔		✔	✔	✔	✔	✔
+English (India)	en-IN	telephony	False	✔			✔	✔	✔	✔
+English (India)	en-IN	telephony	True	✔			✔	✔	✔	✔
+English (India)	en-IN	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (India)	en-IN	telephony_short	True	✔		✔	✔	✔	✔	✔
+English (Ireland)	en-IE	command_and_search	False					✔	✔	✔
+English (Ireland)	en-IE	command_and_search	True					✔	✔	✔
+English (Ireland)	en-IE	default	False					✔	✔	✔
+English (Ireland)	en-IE	telephony	False	✔			✔	✔	✔	✔
+English (Ireland)	en-IE	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (Kenya)	en-KE	command_and_search	False			✔		✔	✔	
+English (Kenya)	en-KE	command_and_search	True			✔		✔	✔	
+English (Kenya)	en-KE	default	False			✔		✔	✔	
+English (New Zealand)	en-NZ	command_and_search	False					✔	✔	✔
+English (New Zealand)	en-NZ	command_and_search	True					✔	✔	✔
+English (New Zealand)	en-NZ	default	False					✔	✔	✔
+English (New Zealand)	en-NZ	telephony	False	✔			✔	✔	✔	✔
+English (New Zealand)	en-NZ	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (Nigeria)	en-NG	command_and_search	False			✔		✔	✔	
+English (Nigeria)	en-NG	command_and_search	True			✔		✔	✔	
+English (Nigeria)	en-NG	default	False			✔		✔	✔	
+English (Pakistan)	en-PK	command_and_search	False					✔	✔	✔
+English (Pakistan)	en-PK	command_and_search	True					✔	✔	✔
+English (Pakistan)	en-PK	default	False					✔	✔	✔
+English (Pakistan)	en-PK	telephony	False	✔			✔	✔	✔	✔
+English (Pakistan)	en-PK	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (Philippines)	en-PH	command_and_search	False			✔		✔		✔
+English (Philippines)	en-PH	command_and_search	True			✔		✔		✔
+English (Philippines)	en-PH	default	False			✔		✔		
+English (Singapore)	en-SG	command_and_search	False	✔		✔	✔	✔	✔	✔
+English (Singapore)	en-SG	command_and_search	True	✔		✔	✔	✔	✔	✔
+English (Singapore)	en-SG	default	False	✔		✔	✔	✔		
+English (Singapore)	en-SG	telephony	False	✔	✔	✔	✔	✔	✔	✔
+English (Singapore)	en-SG	telephony_short	False	✔	✔	✔	✔	✔	✔	✔
+English (South Africa)	en-ZA	command_and_search	False			✔		✔	✔	
+English (South Africa)	en-ZA	command_and_search	True			✔		✔	✔	
+English (South Africa)	en-ZA	default	False			✔		✔	✔	
+English (Tanzania)	en-TZ	command_and_search	False			✔		✔	✔	
+English (Tanzania)	en-TZ	command_and_search	True			✔		✔	✔	
+English (Tanzania)	en-TZ	default	False			✔		✔	✔	
+English (United Kingdom)	en-GB	command_and_search	False	✔		✔		✔	✔	✔
+English (United Kingdom)	en-GB	command_and_search	True	✔		✔		✔	✔	✔
+English (United Kingdom)	en-GB	default	False	✔		✔		✔	✔	✔
+English (United Kingdom)	en-GB	latest_long	False	✔		✔	✔	✔	✔	✔
+English (United Kingdom)	en-GB	latest_long	True	✔		✔	✔	✔	✔	✔
+English (United Kingdom)	en-GB	latest_short	False	✔		✔	✔	✔	✔	✔
+English (United Kingdom)	en-GB	latest_short	True	✔		✔	✔	✔	✔	✔
+English (United Kingdom)	en-GB	phone_call	False	✔			✔	✔	✔	✔
+English (United Kingdom)	en-GB	telephony	False	✔			✔	✔	✔	✔
+English (United Kingdom)	en-GB	telephony	True	✔			✔	✔	✔	✔
+English (United Kingdom)	en-GB	telephony_short	False	✔		✔	✔	✔	✔	✔
+English (United Kingdom)	en-GB	telephony_short	True	✔		✔	✔	✔	✔	✔
+English (United States)	en-US	command_and_search	False	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	command_and_search	True	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	default	False	✔	✔	✔	✔	✔		
+English (United States)	en-US	latest_long	False	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	latest_long	True	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	latest_short	False	✔	✔	✔	✔	✔		✔
+English (United States)	en-US	latest_short	True	✔	✔	✔	✔	✔		✔
+English (United States)	en-US	medical_conversation	False	✔	✔		✔			
+English (United States)	en-US	medical_dictation	False	✔			✔		✔	
+English (United States)	en-US	phone_call	False	✔	✔	✔	✔	✔		
+English (United States)	en-US	telephony	False	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	telephony	True	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	telephony_short	False	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	telephony_short	True	✔	✔	✔	✔	✔	✔	✔
+English (United States)	en-US	video	False	✔	✔	✔	✔	✔		
+Estonian (Estonia)	et-EE	command_and_search	False					✔		
+Estonian (Estonia)	et-EE	command_and_search	True					✔		
+Estonian (Estonia)	et-EE	default	False					✔		
+Filipino (Philippines)	fil-PH	command_and_search	False			✔		✔		
+Filipino (Philippines)	fil-PH	command_and_search	True			✔		✔		
+Filipino (Philippines)	fil-PH	default	False			✔		✔		
+Finnish (Finland)	fi-FI	command_and_search	False	✔		✔		✔		
+Finnish (Finland)	fi-FI	command_and_search	True	✔		✔		✔		
+Finnish (Finland)	fi-FI	default	False	✔		✔		✔		
+Finnish (Finland)	fi-FI	latest_long	False	✔			✔	✔		
+Finnish (Finland)	fi-FI	latest_long	True	✔		✔	✔	✔		
+Finnish (Finland)	fi-FI	latest_short	False	✔		✔	✔	✔		
+Finnish (Finland)	fi-FI	latest_short	True	✔		✔	✔	✔		
+French (Belgium)	fr-BE	command_and_search	False					✔	✔	✔
+French (Belgium)	fr-BE	command_and_search	True					✔	✔	✔
+French (Belgium)	fr-BE	default	False					✔	✔	✔
+French (Belgium)	fr-BE	telephony	False	✔			✔	✔	✔	✔
+French (Belgium)	fr-BE	telephony_short	False	✔		✔		✔	✔	✔
+French (Canada)	fr-CA	command_and_search	False			✔		✔	✔	
+French (Canada)	fr-CA	command_and_search	True			✔		✔	✔	
+French (Canada)	fr-CA	default	False			✔		✔	✔	
+French (Canada)	fr-CA	latest_long	False			✔	✔		✔	
+French (Canada)	fr-CA	latest_long	True			✔	✔		✔	
+French (Canada)	fr-CA	latest_short	False			✔	✔	✔	✔	
+French (Canada)	fr-CA	latest_short	True			✔	✔	✔	✔	
+French (Canada)	fr-CA	phone_call	False				✔	✔		
+French (Canada)	fr-CA	telephony	False				✔	✔	✔	
+French (Canada)	fr-CA	telephony	True				✔	✔	✔	
+French (Canada)	fr-CA	telephony_short	False			✔	✔	✔	✔	
+French (Canada)	fr-CA	telephony_short	True			✔	✔	✔	✔	
+French (France)	fr-FR	command_and_search	False	✔		✔		✔	✔	✔
+French (France)	fr-FR	command_and_search	True	✔		✔		✔	✔	✔
+French (France)	fr-FR	default	False	✔		✔		✔	✔	✔
+French (France)	fr-FR	latest_long	False	✔		✔	✔	✔	✔	✔
+French (France)	fr-FR	latest_long	True	✔		✔	✔	✔	✔	✔
+French (France)	fr-FR	latest_short	False	✔		✔	✔	✔	✔	✔
+French (France)	fr-FR	latest_short	True	✔		✔	✔	✔	✔	✔
+French (France)	fr-FR	phone_call	False	✔			✔	✔	✔	✔
+French (France)	fr-FR	telephony	False	✔			✔	✔	✔	✔
+French (France)	fr-FR	telephony	True	✔			✔	✔	✔	✔
+French (France)	fr-FR	telephony_short	False	✔		✔		✔	✔	✔
+French (France)	fr-FR	telephony_short	True	✔		✔		✔	✔	✔
+French (Switzerland)	fr-CH	command_and_search	False					✔	✔	✔
+French (Switzerland)	fr-CH	command_and_search	True					✔	✔	✔
+French (Switzerland)	fr-CH	default	False					✔	✔	✔
+French (Switzerland)	fr-CH	telephony	False	✔			✔	✔	✔	✔
+French (Switzerland)	fr-CH	telephony_short	False	✔		✔		✔	✔	✔
+Galician (Spain)	gl-ES	command_and_search	False					✔		
+Galician (Spain)	gl-ES	command_and_search	True					✔		
+Galician (Spain)	gl-ES	default	False					✔		
+Georgian (Georgia)	ka-GE	command_and_search	False					✔		
+Georgian (Georgia)	ka-GE	command_and_search	True					✔		
+Georgian (Georgia)	ka-GE	default	False					✔		
+German (Austria)	de-AT	command_and_search	False					✔	✔	
+German (Austria)	de-AT	command_and_search	True					✔	✔	
+German (Austria)	de-AT	default	False					✔	✔	
+German (Austria)	de-AT	telephony	False	✔			✔	✔	✔	
+German (Austria)	de-AT	telephony_short	False	✔		✔		✔	✔	
+German (Germany)	de-DE	command_and_search	False	✔		✔		✔	✔	
+German (Germany)	de-DE	command_and_search	True	✔		✔		✔	✔	
+German (Germany)	de-DE	default	False	✔		✔		✔	✔	
+German (Germany)	de-DE	latest_long	False	✔		✔	✔	✔	✔	
+German (Germany)	de-DE	latest_long	True	✔		✔	✔	✔	✔	
+German (Germany)	de-DE	latest_short	False	✔		✔	✔	✔	✔	
+German (Germany)	de-DE	latest_short	True	✔		✔	✔	✔	✔	
+German (Germany)	de-DE	phone_call	False	✔				✔	✔	
+German (Germany)	de-DE	telephony	False	✔			✔	✔	✔	
+German (Germany)	de-DE	telephony	True	✔			✔	✔	✔	
+German (Germany)	de-DE	telephony_short	False	✔		✔		✔	✔	
+German (Germany)	de-DE	telephony_short	True	✔		✔		✔	✔	
+German (Switzerland)	de-CH	command_and_search	False					✔	✔	
+German (Switzerland)	de-CH	command_and_search	True					✔	✔	
+German (Switzerland)	de-CH	default	False					✔	✔	
+German (Switzerland)	de-CH	telephony	False	✔			✔	✔	✔	
+German (Switzerland)	de-CH	telephony_short	False	✔		✔		✔	✔	
+Greek (Greece)	el-GR	command_and_search	False					✔		
+Greek (Greece)	el-GR	command_and_search	True					✔		
+Greek (Greece)	el-GR	default	False					✔		
+Gujarati (India)	gu-IN	command_and_search	False			✔		✔		
+Gujarati (India)	gu-IN	command_and_search	True			✔		✔		
+Gujarati (India)	gu-IN	default	False			✔		✔		
+Hebrew (Israel)	iw-IL	command_and_search	False			✔		✔	✔	
+Hebrew (Israel)	iw-IL	command_and_search	True			✔		✔	✔	
+Hebrew (Israel)	iw-IL	default	False			✔		✔	✔	
+Hindi (India)	hi-IN	command_and_search	False			✔		✔	✔	
+Hindi (India)	hi-IN	command_and_search	True			✔		✔	✔	
+Hindi (India)	hi-IN	default	False			✔		✔	✔	
+Hindi (India)	hi-IN	latest_long	False	✔			✔	✔	✔	
+Hindi (India)	hi-IN	latest_long	True	✔			✔	✔	✔	
+Hindi (India)	hi-IN	latest_short	False	✔		✔	✔	✔	✔	
+Hindi (India)	hi-IN	latest_short	True	✔		✔	✔	✔	✔	
+Hindi (India)	hi-IN	telephony	False	✔			✔	✔	✔	
+Hindi (India)	hi-IN	telephony	True	✔			✔	✔	✔	
+Hindi (India)	hi-IN	telephony_short	False	✔		✔	✔	✔	✔	
+Hindi (India)	hi-IN	telephony_short	True	✔		✔	✔	✔	✔	
+Hungarian (Hungary)	hu-HU	command_and_search	False					✔		
+Hungarian (Hungary)	hu-HU	command_and_search	True					✔		
+Hungarian (Hungary)	hu-HU	default	False					✔		
+Hungarian (Hungary)	hu-HU	latest_long	False					✔		
+Hungarian (Hungary)	hu-HU	latest_long	True					✔		
+Hungarian (Hungary)	hu-HU	latest_short	False					✔		
+Hungarian (Hungary)	hu-HU	latest_short	True					✔		
+Icelandic (Iceland)	is-IS	command_and_search	False					✔		
+Icelandic (Iceland)	is-IS	command_and_search	True					✔		
+Icelandic (Iceland)	is-IS	default	False					✔		
+Indonesian (Indonesia)	id-ID	command_and_search	False	✔		✔		✔	✔	
+Indonesian (Indonesia)	id-ID	command_and_search	True	✔		✔		✔	✔	
+Indonesian (Indonesia)	id-ID	default	False	✔		✔		✔	✔	
+Indonesian (Indonesia)	id-ID	latest_long	False	✔			✔	✔	✔	
+Indonesian (Indonesia)	id-ID	latest_long	True	✔		✔	✔	✔	✔	
+Indonesian (Indonesia)	id-ID	latest_short	False	✔		✔	✔	✔	✔	
+Indonesian (Indonesia)	id-ID	latest_short	True	✔		✔	✔	✔	✔	
+Italian (Italy)	it-IT	command_and_search	False	✔		✔		✔	✔	
+Italian (Italy)	it-IT	command_and_search	True	✔		✔		✔	✔	
+Italian (Italy)	it-IT	default	False	✔		✔		✔	✔	
+Italian (Italy)	it-IT	latest_long	False	✔		✔	✔	✔	✔	
+Italian (Italy)	it-IT	latest_long	True	✔		✔	✔	✔	✔	
+Italian (Italy)	it-IT	latest_short	False	✔		✔	✔	✔	✔	
+Italian (Italy)	it-IT	latest_short	True	✔		✔	✔	✔	✔	
+Italian (Italy)	it-IT	phone_call	False	✔				✔	✔	
+Italian (Italy)	it-IT	telephony	False	✔			✔	✔	✔	
+Italian (Italy)	it-IT	telephony	True	✔			✔	✔	✔	
+Italian (Italy)	it-IT	telephony_short	False	✔		✔	✔	✔	✔	
+Italian (Italy)	it-IT	telephony_short	True	✔		✔	✔	✔	✔	
+Italian (Switzerland)	it-CH	command_and_search	False					✔	✔	
+Italian (Switzerland)	it-CH	command_and_search	True					✔	✔	
+Italian (Switzerland)	it-CH	default	False					✔	✔	
+Italian (Switzerland)	it-CH	telephony	False	✔			✔	✔	✔	
+Italian (Switzerland)	it-CH	telephony_short	False	✔		✔	✔	✔	✔	
+Japanese (Japan)	ja-JP	command_and_search	False	✔		✔		✔	✔	
+Japanese (Japan)	ja-JP	command_and_search	True	✔		✔		✔	✔	
+Japanese (Japan)	ja-JP	default	False	✔		✔		✔	✔	
+Japanese (Japan)	ja-JP	latest_long	False	✔		✔	✔	✔	✔	
+Japanese (Japan)	ja-JP	latest_long	True	✔		✔	✔	✔	✔	
+Japanese (Japan)	ja-JP	latest_short	False	✔		✔	✔	✔	✔	
+Japanese (Japan)	ja-JP	latest_short	True	✔		✔	✔	✔	✔	
+Japanese (Japan)	ja-JP	phone_call	False	✔			✔	✔	✔	
+Japanese (Japan)	ja-JP	telephony	False	✔			✔	✔	✔	
+Japanese (Japan)	ja-JP	telephony	True	✔			✔	✔	✔	
+Japanese (Japan)	ja-JP	telephony_short	False	✔		✔	✔	✔	✔	
+Japanese (Japan)	ja-JP	telephony_short	True	✔		✔	✔	✔	✔	
+Javanese (Indonesia)	jv-ID	command_and_search	False					✔		
+Javanese (Indonesia)	jv-ID	command_and_search	True					✔		
+Javanese (Indonesia)	jv-ID	default	False					✔		
+Kannada (India)	kn-IN	command_and_search	False			✔		✔		
+Kannada (India)	kn-IN	command_and_search	True			✔		✔		
+Kannada (India)	kn-IN	default	False			✔		✔		
+Kannada (India)	kn-IN	latest_long	False				✔	✔		
+Kannada (India)	kn-IN	latest_long	True			✔	✔	✔		
+Kannada (India)	kn-IN	latest_short	False			✔	✔	✔		
+Kannada (India)	kn-IN	latest_short	True			✔	✔	✔		
+Kazakh (Kazakhstan)	kk-KZ	command_and_search	False					✔		
+Kazakh (Kazakhstan)	kk-KZ	command_and_search	True					✔		
+Kazakh (Kazakhstan)	kk-KZ	default	False					✔		
+Khmer (Cambodia)	km-KH	command_and_search	False					✔		
+Khmer (Cambodia)	km-KH	command_and_search	True					✔		
+Khmer (Cambodia)	km-KH	default	False					✔		
+Khmer (Cambodia)	km-KH	latest_long	False				✔	✔		
+Khmer (Cambodia)	km-KH	latest_long	True				✔	✔		
+Khmer (Cambodia)	km-KH	latest_short	False				✔	✔		
+Khmer (Cambodia)	km-KH	latest_short	True				✔	✔		
+Kinyarwanda (Rwanda)	rw-RW	latest_long	False					✔		
+Kinyarwanda (Rwanda)	rw-RW	latest_long	True					✔		
+Kinyarwanda (Rwanda)	rw-RW	latest_short	False					✔		
+Kinyarwanda (Rwanda)	rw-RW	latest_short	True					✔		
+Korean (South Korea)	ko-KR	command_and_search	False	✔		✔		✔	✔	
+Korean (South Korea)	ko-KR	command_and_search	True	✔		✔		✔	✔	
+Korean (South Korea)	ko-KR	default	False	✔		✔		✔	✔	
+Korean (South Korea)	ko-KR	latest_long	False	✔			✔	✔	✔	
+Korean (South Korea)	ko-KR	latest_long	True	✔		✔	✔	✔	✔	
+Korean (South Korea)	ko-KR	latest_short	False	✔		✔	✔	✔	✔	
+Korean (South Korea)	ko-KR	latest_short	True	✔		✔	✔	✔	✔	
+Korean (South Korea)	ko-KR	telephony	False	✔			✔	✔	✔	
+Korean (South Korea)	ko-KR	telephony	True	✔			✔	✔	✔	
+Korean (South Korea)	ko-KR	telephony_short	False	✔			✔	✔	✔	
+Korean (South Korea)	ko-KR	telephony_short	True	✔			✔	✔	✔	
+Lao (Laos)	lo-LA	command_and_search	False					✔		
+Lao (Laos)	lo-LA	command_and_search	True					✔		
+Lao (Laos)	lo-LA	default	False					✔		
+Latvian (Latvia)	lv-LV	command_and_search	False					✔		
+Latvian (Latvia)	lv-LV	command_and_search	True					✔		
+Latvian (Latvia)	lv-LV	default	False					✔		
+Lithuanian (Lithuania)	lt-LT	command_and_search	False					✔		
+Lithuanian (Lithuania)	lt-LT	command_and_search	True					✔		
+Lithuanian (Lithuania)	lt-LT	default	False					✔		
+Macedonian (North Macedonia)	mk-MK	command_and_search	False					✔		
+Macedonian (North Macedonia)	mk-MK	command_and_search	True					✔		
+Macedonian (North Macedonia)	mk-MK	default	False					✔		
+Macedonian (North Macedonia)	mk-MK	latest_long	False					✔		
+Macedonian (North Macedonia)	mk-MK	latest_long	True					✔		
+Macedonian (North Macedonia)	mk-MK	latest_short	False					✔		
+Macedonian (North Macedonia)	mk-MK	latest_short	True					✔		
+Malay (Malaysia)	ms-MY	command_and_search	False			✔		✔		
+Malay (Malaysia)	ms-MY	command_and_search	True			✔		✔		
+Malay (Malaysia)	ms-MY	default	False			✔		✔		
+Malayalam (India)	ml-IN	command_and_search	False			✔		✔	✔	
+Malayalam (India)	ml-IN	command_and_search	True			✔		✔	✔	
+Malayalam (India)	ml-IN	default	False			✔		✔	✔	
+Malayalam (India)	ml-IN	latest_long	False				✔	✔	✔	
+Malayalam (India)	ml-IN	latest_long	True			✔	✔	✔	✔	
+Malayalam (India)	ml-IN	latest_short	False			✔	✔	✔	✔	
+Malayalam (India)	ml-IN	latest_short	True			✔	✔	✔	✔	
+Marathi (India)	mr-IN	command_and_search	False			✔		✔		
+Marathi (India)	mr-IN	command_and_search	True			✔		✔		
+Marathi (India)	mr-IN	default	False			✔		✔		
+Marathi (India)	mr-IN	latest_long	False				✔	✔		
+Marathi (India)	mr-IN	latest_long	True			✔	✔	✔		
+Marathi (India)	mr-IN	latest_short	False			✔	✔	✔		
+Marathi (India)	mr-IN	latest_short	True			✔	✔	✔		
+Mongolian (Mongolia)	mn-MN	command_and_search	False					✔		
+Mongolian (Mongolia)	mn-MN	command_and_search	True					✔		
+Mongolian (Mongolia)	mn-MN	default	False					✔		
+Nepali (Nepal)	ne-NP	command_and_search	False					✔		
+Nepali (Nepal)	ne-NP	command_and_search	True					✔		
+Nepali (Nepal)	ne-NP	default	False					✔		
+Norwegian Bokmål (Norway)	no-NO	command_and_search	False			✔		✔	✔	
+Norwegian Bokmål (Norway)	no-NO	command_and_search	True			✔		✔	✔	
+Norwegian Bokmål (Norway)	no-NO	default	False			✔		✔	✔	
+Norwegian Bokmål (Norway)	no-NO	latest_long	False				✔	✔	✔	
+Norwegian Bokmål (Norway)	no-NO	latest_long	True			✔	✔	✔	✔	
+Norwegian Bokmål (Norway)	no-NO	latest_short	False			✔	✔	✔	✔	
+Norwegian Bokmål (Norway)	no-NO	latest_short	True			✔	✔	✔	✔	
+Persian (Iran)	fa-IR	command_and_search	False			✔		✔		
+Persian (Iran)	fa-IR	command_and_search	True			✔		✔		
+Persian (Iran)	fa-IR	default	False			✔		✔		
+Polish (Poland)	pl-PL	command_and_search	False			✔		✔	✔	
+Polish (Poland)	pl-PL	command_and_search	True			✔		✔	✔	
+Polish (Poland)	pl-PL	default	False			✔		✔	✔	
+Polish (Poland)	pl-PL	latest_long	False				✔	✔	✔	
+Polish (Poland)	pl-PL	latest_long	True			✔	✔	✔	✔	
+Polish (Poland)	pl-PL	latest_short	False			✔	✔	✔	✔	
+Polish (Poland)	pl-PL	latest_short	True			✔	✔	✔	✔	
+Portuguese (Brazil)	pt-BR	command_and_search	False			✔		✔	✔	
+Portuguese (Brazil)	pt-BR	command_and_search	True			✔		✔	✔	
+Portuguese (Brazil)	pt-BR	default	False			✔		✔	✔	
+Portuguese (Brazil)	pt-BR	latest_long	False	✔		✔	✔	✔	✔	
+Portuguese (Brazil)	pt-BR	latest_long	True	✔		✔	✔	✔	✔	
+Portuguese (Brazil)	pt-BR	latest_short	False	✔		✔	✔	✔	✔	
+Portuguese (Brazil)	pt-BR	latest_short	True	✔		✔	✔	✔	✔	
+Portuguese (Brazil)	pt-BR	phone_call	False	✔				✔	✔	
+Portuguese (Brazil)	pt-BR	telephony	False	✔			✔	✔	✔	
+Portuguese (Brazil)	pt-BR	telephony	True	✔			✔	✔	✔	
+Portuguese (Brazil)	pt-BR	telephony_short	False	✔		✔	✔	✔	✔	
+Portuguese (Brazil)	pt-BR	telephony_short	True	✔		✔	✔	✔	✔	
+Portuguese (Portugal)	pt-PT	command_and_search	False			✔		✔	✔	
+Portuguese (Portugal)	pt-PT	command_and_search	True			✔		✔	✔	
+Portuguese (Portugal)	pt-PT	default	False			✔		✔	✔	
+Portuguese (Portugal)	pt-PT	latest_long	False				✔	✔	✔	
+Portuguese (Portugal)	pt-PT	latest_long	True			✔	✔	✔	✔	
+Portuguese (Portugal)	pt-PT	latest_short	False			✔	✔	✔	✔	
+Portuguese (Portugal)	pt-PT	latest_short	True			✔	✔	✔	✔	
+Portuguese (Portugal)	pt-PT	telephony	False				✔	✔	✔	
+Portuguese (Portugal)	pt-PT	telephony	True				✔	✔	✔	
+Portuguese (Portugal)	pt-PT	telephony_short	False				✔	✔	✔	
+Portuguese (Portugal)	pt-PT	telephony_short	True				✔	✔	✔	
+Punjabi (Gurmukhi India)	pa-Guru-IN	command_and_search	False					✔		
+Punjabi (Gurmukhi India)	pa-Guru-IN	command_and_search	True					✔		
+Punjabi (Gurmukhi India)	pa-Guru-IN	default	False					✔		
+Romanian (Romania)	ro-RO	command_and_search	False					✔		
+Romanian (Romania)	ro-RO	command_and_search	True					✔		
+Romanian (Romania)	ro-RO	default	False					✔		
+Romanian (Romania)	ro-RO	latest_long	False				✔	✔		
+Romanian (Romania)	ro-RO	latest_long	True			✔	✔	✔		
+Romanian (Romania)	ro-RO	latest_short	False			✔	✔	✔		
+Romanian (Romania)	ro-RO	latest_short	True			✔	✔	✔		
+Russian (Russia)	ru-RU	command_and_search	False			✔		✔	✔	
+Russian (Russia)	ru-RU	command_and_search	True			✔		✔	✔	
+Russian (Russia)	ru-RU	default	False			✔		✔	✔	
+Russian (Russia)	ru-RU	latest_long	False	✔			✔	✔	✔	
+Russian (Russia)	ru-RU	latest_long	True	✔		✔	✔	✔	✔	
+Russian (Russia)	ru-RU	latest_short	False	✔		✔	✔	✔	✔	
+Russian (Russia)	ru-RU	latest_short	True	✔		✔	✔	✔	✔	
+Russian (Russia)	ru-RU	phone_call	False	✔				✔	✔	
+Serbian (Serbia)	sr-RS	command_and_search	False			✔		✔		
+Serbian (Serbia)	sr-RS	command_and_search	True			✔		✔		
+Serbian (Serbia)	sr-RS	default	False			✔		✔		
+Sinhala (Sri Lanka)	si-LK	command_and_search	False					✔		
+Sinhala (Sri Lanka)	si-LK	command_and_search	True					✔		
+Sinhala (Sri Lanka)	si-LK	default	False					✔		
+Slovak (Slovakia)	sk-SK	command_and_search	False					✔		
+Slovak (Slovakia)	sk-SK	command_and_search	True					✔		
+Slovak (Slovakia)	sk-SK	default	False					✔		
+Slovenian (Slovenia)	sl-SI	command_and_search	False					✔		
+Slovenian (Slovenia)	sl-SI	command_and_search	True					✔		
+Slovenian (Slovenia)	sl-SI	default	False					✔		
+Southern Sotho (South Africa)	st-ZA	latest_long	False					✔		
+Southern Sotho (South Africa)	st-ZA	latest_long	True					✔		
+Southern Sotho (South Africa)	st-ZA	latest_short	False					✔		
+Southern Sotho (South Africa)	st-ZA	latest_short	True					✔		
+Spanish (Argentina)	es-AR	command_and_search	False					✔	✔	
+Spanish (Argentina)	es-AR	command_and_search	True					✔	✔	
+Spanish (Argentina)	es-AR	default	False					✔	✔	
+Spanish (Argentina)	es-AR	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Bolivia)	es-BO	command_and_search	False					✔	✔	
+Spanish (Bolivia)	es-BO	command_and_search	True					✔	✔	
+Spanish (Bolivia)	es-BO	default	False					✔	✔	
+Spanish (Bolivia)	es-BO	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Chile)	es-CL	command_and_search	False					✔	✔	
+Spanish (Chile)	es-CL	command_and_search	True					✔	✔	
+Spanish (Chile)	es-CL	default	False					✔	✔	
+Spanish (Chile)	es-CL	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Colombia)	es-CO	command_and_search	False					✔	✔	
+Spanish (Colombia)	es-CO	command_and_search	True					✔	✔	
+Spanish (Colombia)	es-CO	default	False					✔	✔	
+Spanish (Colombia)	es-CO	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Costa Rica)	es-CR	command_and_search	False					✔	✔	
+Spanish (Costa Rica)	es-CR	command_and_search	True					✔	✔	
+Spanish (Costa Rica)	es-CR	default	False					✔	✔	
+Spanish (Costa Rica)	es-CR	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Dominican Republic)	es-DO	command_and_search	False					✔	✔	
+Spanish (Dominican Republic)	es-DO	command_and_search	True					✔	✔	
+Spanish (Dominican Republic)	es-DO	default	False					✔	✔	
+Spanish (Dominican Republic)	es-DO	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Ecuador)	es-EC	command_and_search	False					✔	✔	
+Spanish (Ecuador)	es-EC	command_and_search	True					✔	✔	
+Spanish (Ecuador)	es-EC	default	False					✔	✔	
+Spanish (Ecuador)	es-EC	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (El Salvador)	es-SV	command_and_search	False					✔	✔	
+Spanish (El Salvador)	es-SV	command_and_search	True					✔	✔	
+Spanish (El Salvador)	es-SV	default	False					✔	✔	
+Spanish (El Salvador)	es-SV	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Guatemala)	es-GT	command_and_search	False					✔	✔	
+Spanish (Guatemala)	es-GT	command_and_search	True					✔	✔	
+Spanish (Guatemala)	es-GT	default	False					✔	✔	
+Spanish (Guatemala)	es-GT	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Honduras)	es-HN	command_and_search	False					✔	✔	
+Spanish (Honduras)	es-HN	command_and_search	True					✔	✔	
+Spanish (Honduras)	es-HN	default	False					✔	✔	
+Spanish (Honduras)	es-HN	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Mexico)	es-MX	command_and_search	False					✔	✔	
+Spanish (Mexico)	es-MX	command_and_search	True					✔	✔	
+Spanish (Mexico)	es-MX	default	False					✔	✔	
+Spanish (Mexico)	es-MX	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Nicaragua)	es-NI	command_and_search	False					✔	✔	
+Spanish (Nicaragua)	es-NI	command_and_search	True					✔	✔	
+Spanish (Nicaragua)	es-NI	default	False					✔	✔	
+Spanish (Nicaragua)	es-NI	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Panama)	es-PA	command_and_search	False					✔	✔	
+Spanish (Panama)	es-PA	command_and_search	True					✔	✔	
+Spanish (Panama)	es-PA	default	False					✔	✔	
+Spanish (Panama)	es-PA	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Paraguay)	es-PY	command_and_search	False					✔	✔	
+Spanish (Paraguay)	es-PY	command_and_search	True					✔	✔	
+Spanish (Paraguay)	es-PY	default	False					✔	✔	
+Spanish (Peru)	es-PE	command_and_search	False					✔	✔	
+Spanish (Peru)	es-PE	command_and_search	True					✔	✔	
+Spanish (Peru)	es-PE	default	False					✔	✔	
+Spanish (Peru)	es-PE	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Puerto Rico)	es-PR	command_and_search	False					✔	✔	
+Spanish (Puerto Rico)	es-PR	command_and_search	True					✔	✔	
+Spanish (Puerto Rico)	es-PR	default	False					✔	✔	
+Spanish (Puerto Rico)	es-PR	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Spain)	es-ES	command_and_search	False			✔		✔	✔	
+Spanish (Spain)	es-ES	command_and_search	True			✔		✔	✔	
+Spanish (Spain)	es-ES	default	False			✔		✔	✔	
+Spanish (Spain)	es-ES	latest_long	False	✔		✔	✔	✔	✔	
+Spanish (Spain)	es-ES	latest_long	True	✔		✔	✔	✔	✔	
+Spanish (Spain)	es-ES	latest_short	False	✔		✔	✔	✔	✔	
+Spanish (Spain)	es-ES	latest_short	True	✔		✔	✔	✔	✔	
+Spanish (Spain)	es-ES	phone_call	False				✔	✔	✔	
+Spanish (Spain)	es-ES	telephony	False	✔			✔	✔	✔	
+Spanish (Spain)	es-ES	telephony	True	✔			✔	✔	✔	
+Spanish (Spain)	es-ES	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Spain)	es-ES	telephony_short	True	✔		✔	✔	✔	✔	
+Spanish (United States)	es-US	command_and_search	False	✔		✔		✔	✔	
+Spanish (United States)	es-US	command_and_search	True	✔		✔		✔	✔	
+Spanish (United States)	es-US	default	False	✔		✔		✔	✔	
+Spanish (United States)	es-US	latest_long	False	✔		✔	✔	✔	✔	
+Spanish (United States)	es-US	latest_long	True	✔		✔	✔	✔	✔	
+Spanish (United States)	es-US	latest_short	False	✔		✔	✔	✔	✔	
+Spanish (United States)	es-US	latest_short	True	✔		✔	✔	✔	✔	
+Spanish (United States)	es-US	phone_call	False	✔			✔	✔	✔	
+Spanish (United States)	es-US	telephony	True	✔			✔	✔	✔	
+Spanish (United States)	es-US	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (United States)	es-US	telephony_short	True	✔		✔	✔	✔	✔	
+Spanish (Uruguay)	es-UY	command_and_search	False					✔	✔	
+Spanish (Uruguay)	es-UY	command_and_search	True					✔	✔	
+Spanish (Uruguay)	es-UY	default	False					✔	✔	
+Spanish (Uruguay)	es-UY	telephony_short	False	✔		✔	✔	✔	✔	
+Spanish (Venezuela)	es-VE	command_and_search	False					✔	✔	
+Spanish (Venezuela)	es-VE	command_and_search	True					✔	✔	
+Spanish (Venezuela)	es-VE	default	False					✔	✔	
+Spanish (Venezuela)	es-VE	telephony_short	False	✔		✔	✔	✔	✔	
+Sundanese (Indonesia)	su-ID	command_and_search	False					✔		
+Sundanese (Indonesia)	su-ID	command_and_search	True					✔		
+Sundanese (Indonesia)	su-ID	default	False					✔		
+Swahili (Kenya)	sw-KE	command_and_search	False					✔		
+Swahili (Kenya)	sw-KE	command_and_search	True					✔		
+Swahili (Kenya)	sw-KE	default	False					✔		
+Swahili (Tanzania)	sw-TZ	command_and_search	False					✔		
+Swahili (Tanzania)	sw-TZ	command_and_search	True					✔		
+Swahili (Tanzania)	sw-TZ	default	False					✔		
+Swati (Latin, South Africa)	ss-Latn-ZA	latest_long	False					✔		
+Swati (Latin, South Africa)	ss-Latn-ZA	latest_long	True					✔		
+Swati (Latin, South Africa)	ss-Latn-ZA	latest_short	False					✔		
+Swati (Latin, South Africa)	ss-Latn-ZA	latest_short	True					✔		
+Swedish (Sweden)	sv-SE	command_and_search	False	✔		✔		✔	✔	
+Swedish (Sweden)	sv-SE	command_and_search	True	✔		✔		✔	✔	
+Swedish (Sweden)	sv-SE	default	False	✔		✔		✔	✔	
+Swedish (Sweden)	sv-SE	latest_long	False	✔			✔	✔	✔	
+Swedish (Sweden)	sv-SE	latest_long	True	✔		✔	✔	✔	✔	
+Swedish (Sweden)	sv-SE	latest_short	False	✔		✔	✔	✔	✔	
+Swedish (Sweden)	sv-SE	latest_short	True	✔		✔	✔	✔	✔	
+Tamil (India)	ta-IN	command_and_search	False			✔		✔		
+Tamil (India)	ta-IN	command_and_search	True			✔		✔		
+Tamil (India)	ta-IN	default	False			✔		✔		
+Tamil (India)	ta-IN	latest_long	False				✔	✔		
+Tamil (India)	ta-IN	latest_long	True			✔	✔	✔		
+Tamil (India)	ta-IN	latest_short	False			✔	✔	✔		
+Tamil (India)	ta-IN	latest_short	True			✔	✔	✔		
+Tamil (Malaysia)	ta-MY	command_and_search	False					✔		
+Tamil (Malaysia)	ta-MY	command_and_search	True					✔		
+Tamil (Malaysia)	ta-MY	default	False					✔		
+Tamil (Singapore)	ta-SG	command_and_search	False					✔		
+Tamil (Singapore)	ta-SG	command_and_search	True					✔		
+Tamil (Singapore)	ta-SG	default	False					✔		
+Tamil (Sri Lanka)	ta-LK	command_and_search	False					✔		
+Tamil (Sri Lanka)	ta-LK	command_and_search	True					✔		
+Tamil (Sri Lanka)	ta-LK	default	False					✔		
+Telugu (India)	te-IN	command_and_search	False			✔		✔		
+Telugu (India)	te-IN	command_and_search	True			✔		✔		
+Telugu (India)	te-IN	default	False			✔		✔		
+Telugu (India)	te-IN	latest_long	False				✔	✔		
+Telugu (India)	te-IN	latest_long	True			✔	✔	✔		
+Telugu (India)	te-IN	latest_short	False			✔	✔	✔		
+Telugu (India)	te-IN	latest_short	True			✔	✔	✔		
+Thai (Thailand)	th-TH	command_and_search	False			✔		✔		
+Thai (Thailand)	th-TH	command_and_search	True			✔		✔		
+Thai (Thailand)	th-TH	default	False			✔		✔		
+Thai (Thailand)	th-TH	latest_long	False				✔	✔		
+Thai (Thailand)	th-TH	latest_long	True			✔	✔	✔		
+Thai (Thailand)	th-TH	latest_short	False			✔	✔	✔		
+Thai (Thailand)	th-TH	latest_short	True			✔	✔	✔		
+Tsonga (South Africa)	ts-ZA	latest_long	False					✔		
+Tsonga (South Africa)	ts-ZA	latest_long	True					✔		
+Tsonga (South Africa)	ts-ZA	latest_short	False					✔		
+Tsonga (South Africa)	ts-ZA	latest_short	True					✔		
+Tswana (Latin, South Africa)	tn-Latn-ZA	latest_long	False					✔		
+Tswana (Latin, South Africa)	tn-Latn-ZA	latest_long	True					✔		
+Tswana (Latin, South Africa)	tn-Latn-ZA	latest_short	False					✔		
+Tswana (Latin, South Africa)	tn-Latn-ZA	latest_short	True					✔		
+Turkish (Turkey)	tr-TR	command_and_search	False	✔		✔		✔	✔	
+Turkish (Turkey)	tr-TR	command_and_search	True	✔		✔		✔	✔	
+Turkish (Turkey)	tr-TR	default	False	✔		✔		✔	✔	
+Turkish (Turkey)	tr-TR	latest_long	False	✔			✔	✔	✔	
+Turkish (Turkey)	tr-TR	latest_long	True	✔		✔	✔	✔	✔	
+Turkish (Turkey)	tr-TR	latest_short	False	✔		✔	✔	✔	✔	
+Turkish (Turkey)	tr-TR	latest_short	True	✔		✔	✔	✔	✔	
+Ukrainian (Ukraine)	uk-UA	command_and_search	False			✔		✔		
+Ukrainian (Ukraine)	uk-UA	command_and_search	True			✔		✔		
+Ukrainian (Ukraine)	uk-UA	default	False			✔		✔		
+Ukrainian (Ukraine)	uk-UA	latest_long	False				✔	✔		
+Ukrainian (Ukraine)	uk-UA	latest_long	True			✔	✔	✔		
+Ukrainian (Ukraine)	uk-UA	latest_short	False			✔	✔	✔		
+Ukrainian (Ukraine)	uk-UA	latest_short	True			✔	✔	✔		
+Urdu (India)	ur-IN	command_and_search	False					✔		
+Urdu (India)	ur-IN	command_and_search	True					✔		
+Urdu (India)	ur-IN	default	False					✔		
+Urdu (Pakistan)	ur-PK	command_and_search	False			✔		✔		
+Urdu (Pakistan)	ur-PK	command_and_search	True			✔		✔		
+Urdu (Pakistan)	ur-PK	default	False			✔		✔		
+Uzbek (Uzbekistan)	uz-UZ	command_and_search	False					✔		
+Uzbek (Uzbekistan)	uz-UZ	command_and_search	True					✔		
+Uzbek (Uzbekistan)	uz-UZ	default	False					✔		
+Venda (South Africa)	ve-ZA	latest_long	False					✔		
+Venda (South Africa)	ve-ZA	latest_long	True					✔		
+Venda (South Africa)	ve-ZA	latest_short	False					✔		
+Venda (South Africa)	ve-ZA	latest_short	True					✔		
+Vietnamese (Vietnam)	vi-VN	command_and_search	False			✔		✔		
+Vietnamese (Vietnam)	vi-VN	command_and_search	True			✔		✔		
+Vietnamese (Vietnam)	vi-VN	default	False			✔		✔		
+Vietnamese (Vietnam)	vi-VN	latest_long	False	✔			✔	✔		
+Vietnamese (Vietnam)	vi-VN	latest_long	True	✔		✔	✔	✔		
+Vietnamese (Vietnam)	vi-VN	latest_short	False	✔		✔	✔	✔		
+Vietnamese (Vietnam)	vi-VN	latest_short	True	✔		✔	✔	✔		
+Xhosa (South Africa)	xh-ZA	latest_long	False					✔		
+Xhosa (South Africa)	xh-ZA	latest_long	True					✔		
+Xhosa (South Africa)	xh-ZA	latest_short	False					✔		
+Xhosa (South Africa)	xh-ZA	latest_short	True					✔		
+Zulu (South Africa)	zu-ZA	command_and_search	False			✔		✔		
+Zulu (South Africa)	zu-ZA	command_and_search	True			✔		✔		
+Zulu (South Africa)	zu-ZA	default	False			✔		✔		
