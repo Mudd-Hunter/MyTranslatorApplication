@@ -34,6 +34,7 @@ pip install -r requirements.txt
 ### Google Cloud API Credentials
 
 Before running the application, you need to set up Google Cloud API credentials. Make sure you have the appropriate credentials for the following services:
+(See the GOOGLECREDENTIALSSETUP.md file int the backend directory)
 
 ### Google Cloud Translation API
 
